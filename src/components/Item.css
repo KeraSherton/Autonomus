@@ -1,0 +1,7 @@
+.enabled {
+  font-weight: bold;
+  color: blue;
+}
+.disabled {
+  color: gray;
+}
